@@ -1,4 +1,4 @@
-These programs were used for my google science fair project and paper (https://onlinelibrary.wiley.com/doi/abs/10.1111/itor.12887). Note: all work over last 2 years was done in a private repo under my professor's name -- I have made this new public repo with the important code for the paper. 
+These programs were used for my google science fair project and paper (https://onlinelibrary.wiley.com/doi/abs/10.1111/itor.12887). Note: all work over last 2 years was done in a private repo under my professor's name -- I have only recently made this new public repo with the important code for the paper. 
 
 Each python program is a different variation of the ConvLSTM and can run standalone (without the other python programs in the folder). 
 
